@@ -12,3 +12,4 @@ data/processed/*
 
 .DS_Store
 Thumbs.db
+.idea/
